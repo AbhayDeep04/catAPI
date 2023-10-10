@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3N3oxZndkaGdlZTNyY3gwY3dxdzVkN2RubGkxNXJscGFqdXMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IGsuUT7oREKdf1ie3u/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3N3oxZndkaGdlZTNyY3gwY3dxdzVkN2RubGkxNXJscGFqdXMwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IGsuUT7oREKdf1ie3u/giphy.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
