@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *CatAPI*
 
-Submitted by: **Your Name Here**
+Submitted by: **Abhay Deep Singh**
 
-This web app: **insert description**
+This web app: **Allows users to view Cats from an API and add some attributes to a Ban list**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
